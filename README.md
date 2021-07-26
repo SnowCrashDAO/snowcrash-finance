@@ -1,2 +1,3 @@
-# snowcrash-finance-website
-SnowCrash.finance Website.
+# SnowCrash DAO
+
+[https://snowcrash.finance/](https://snowcrash.finance/)
